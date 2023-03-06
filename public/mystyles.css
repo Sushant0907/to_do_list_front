@@ -1,0 +1,134 @@
+body {
+    background:#5CDB95 ;
+
+
+
+}
+
+h1{
+
+     color: #05386B;
+     font-size: 50px;
+
+}
+
+.header{
+
+    font-family: 'Shantell Sans', cursive;
+
+
+
+
+
+}
+
+.log{
+
+    float: right;
+    margin-top: -90px;
+    margin-right: 40px;
+}
+
+
+.form {
+    margin-left: 40%;
+    margin-right:40% ;
+    margin-top: 4%;
+    padding: 20px;
+    background-color: #EDF5E1;
+    border-radius: 10px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+
+.whole {
+    color: #05386B;
+    text-align: center;
+}
+
+
+button{
+
+    background-color:#379683 ;
+    color: #EDF5E1;
+    margin-top: 20px;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    border-color: rgb(208, 208, 208);
+    font-size: 15px;
+}
+
+input{
+
+    margin-top: 10px;
+    height: 40px;
+    width: 75%;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: rgb(208, 208, 208);
+
+}
+
+
+
+.footer{
+
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 99%;
+    height: 2.5rem;
+
+}
+
+
+.notes{
+
+    min-height: 70px;
+    display: flex;
+
+    border-bottom: 1px solid #EDF5E1;
+    width: 400px;
+
+    background-color: #8EE4AF;
+    margin: 0 auto;
+    border-radius: 3px;
+
+}
+
+.new{
+
+
+    border-radius: 30px;
+}
+
+
+.innote{
+
+
+    width: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
