@@ -3,7 +3,7 @@ import Header from "./Header"
 import Footer from "./Footer"
 import Input from "./Input"
 import Button from "./Button"
-import Header_log from './Header_log';
+// import Header_log from './Header_log';
 
 
 
@@ -17,27 +17,36 @@ function List(){
 
         <Button type="submit" lable="Logout"  class="log"/>
 
+
         <form className="new">
 
-            <div className="notes">
-                <input type="checkbox"></input>
+            <div className='notes'>
+                <input type="checkbox" class= "listinput"></input>
                 <p>first note</p>
             </div>
 
-            <div className="notes">
-                <input type="checkbox"></input>
+            <div className='notes'>
+                <input type="checkbox" class= "listinput"></input>
+                <p>first note</p>
+            </div>
+            
+            <div className='notes'>
+                <input type="checkbox" class= "listinput"></input>
+                <p>first note</p>
+            </div>
+            
+            <div className='notes'>
+            
+                <input type="checkbox" class= "listinput"></input>
+                <p>first note </p>
+            </div>
+            
+            <div className='notes'>
+                <input type="checkbox" class= "listinput"></input>
                 <p>first note</p>
             </div>
 
-            <div className="notes">
-                <input type="checkbox"></input>
-                <p>first note</p>
-            </div>
 
-            <div className="notes">
-                <input type="checkbox"></input>
-                <p>first note</p>
-            </div>
         </form>
 
 
@@ -61,10 +70,19 @@ function List(){
 
 
 
-        {/* <Footer /> */}
 
 
-    </div>)
+
+    </div>);
+
+
+
+
+
+
+
+
+
 
 
 

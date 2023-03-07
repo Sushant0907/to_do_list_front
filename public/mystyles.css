@@ -70,6 +70,31 @@ input{
 
 }
 
+input:checked+p {
+    text-decoration: line-through;
+    text-decoration-color: #05386B;
+}
+
+
+p{
+
+    
+    font-size: 150%;
+}
+
+.listinput{
+
+    margin-top: 10px;
+    height: 40px;
+    width: 50px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: rgb(208, 208, 208);
+
+
+
+
+}
 
 
 .footer{
